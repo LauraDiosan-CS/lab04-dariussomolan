@@ -1,0 +1,10 @@
+﻿  clasaRepo.cpp
+  clasaTranzactie.cpp
+  Controller.cpp
+  TesteController.cpp
+  testeRepo.cpp
+  testeTranzactie.cpp
+  UI.cpp
+  Generating Code...
+  LINK : C:\Users\Claudia\Desktop\Faculta\POO laburi\Lab5\Debug\Lab5.exe not found or not built by the last incremental link; performing full link
+  Lab5.vcxproj -> C:\Users\Claudia\Desktop\Faculta\POO laburi\Lab5\Debug\Lab5.exe
